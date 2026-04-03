@@ -7,7 +7,7 @@ baseurl: "" # 如果是 yourusername.github.io，这里保持为空
 
 # Author Profile (左侧边栏配置)
 author:
-  name: "Xinxin Chi, Ph.D."
+  name: "Xinxin Chi, Ph.D. @ Tsinghua University"
   avatar: "/images/profile.jpg" # 建议把太太的职业照命名为 profile.jpg 放到 images 文件夹下
   bio: "Postdoctoral Researcher at [Current Institution]\nSpecializing in Medical Imaging, Deep Learning, and Computational Pathology."
   location: "Boston, MA, United States" # 或者具体的城市如 Nashville, TN / Boston, MA 等
