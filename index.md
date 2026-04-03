@@ -8,27 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher specializing in **Medical Imaging Analysis** and **Machine Learning**, with a focus on clinical applications in nephrology and pathology. I earned my Ph.D. in Computer Science, where my research bridged the gap between advanced computational techniques and real-world medical challenges.
+I am a Postdoctoral Researcher specializing in Immunology and Molecular Biology, with a focus on the regulatory mechanisms of T cell differentiation. I earned my Ph.D. in Biological Sciences, where my research bridged the gap between basic transcriptional regulation and complex immune responses in health and disease.
 
-My current research leverages **Deep Learning** and **Computer Vision** to automate the quantification of histopathological features, aiming to improve diagnostic precision and patient outcomes in chronic diseases.
+My current research leverages Advanced Flow Cytometry and Functional Genomics to decode the rules governing peripheral tolerance and T cell lineage specification, aiming to improve therapeutic outcomes in cancer and autoimmunity.
 
 Research Interests
 ======
-* **Medical Image Analysis:** Automated segmentation and classification of histopathological slides.
-* **Deep Learning in Healthcare:** Developing robust AI models for clinical decision support.
-* **Computational Pathology:** Quantitative analysis of renal biopsies and large-scale medical datasets.
-* **Computer Vision:** Feature extraction and pattern recognition in high-resolution imaging.
+* **T Cell Differentiation** Molecular regulation and functions of CD8+ T cells and Th17 cell subsets.
+* **Cancer Immunology:** Programming of stem-like CD8+ T cells and their role in the tumor microenvironment.
+* **Autoimmune Disease:** Investigating the genetic connections and cellular drivers of colitis and inflammatory disorders..
+* **Immune Tolerance:** Decoding the TCR-mediated rules for regulatory T cell (pTreg) differentiation in the gut.
 
 Education
 ======
-* **Ph.D. in Computer Science**, [University Name, e.g., Vanderbilt University]
-* **B.S. in Computer Science**, [Undergraduate University Name]
+* **Ph.D. in Biology**, [Tsinghua University, Beijing, China]
+* **B.S. in Biology**, [East China Normal University, Shanghai, China]
 
 Selected Publications
 ======
-* **Deep learning-based quantification of interstitial fibrosis and tubular atrophy (IFTA) in renal biopsies**, *[Journal Name, e.g., JASN/Kidney International]*, 202X.
-* **[Brief Title of another key paper, e.g., Glomerular detection and segmentation]**, *[Journal Name]*, 202X.
-* Please visit my [Google Scholar](https://scholar.google.com/citations?hl=en&user=iHZyIQUAAAAJ) for a complete list of publications (>200 citations).
+* **STAT3 regulates CD8+ T cell differentiation and functions in cancer and acute infection**, *[Journal of Experimental Medicine]*, 2023.
+* **RORγt expression in mature Th17 cells safeguards their lineage specification by inhibiting conversion to Th2 cells**, *[Science Advances]*, 2022.
+* Please visit my Google Scholar for a complete list of publications (>450 citations)..
 
 Academic Service & Honors
 ======
